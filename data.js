@@ -73,6 +73,11 @@ new TypeIt('#ynn', {
 })
 .type('Eps <b>04</b>');
 
+new TypeIt('#update', {
+  speed: 45
+})
+.type('SAO Alicization 17');
+
 new TypeIt('#uncom', {
   speed: 45
 })

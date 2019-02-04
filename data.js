@@ -76,11 +76,11 @@ new TypeIt('#ynn', {
 new TypeIt('#uncom', {
   speed: 45
 })
-.type('Masih dalam tahap pengumpulan data gaes')
+.type('Masih dalam tahap pengumpulan data')
 .break()
-.type('HADE 10bit = 720p 10bit')
+.type('- [HADE 10bit] adalah 720p 10bit')
 .break()
-.type('S-HADE = 1080p');
+.type('- [S-HADE] adalah 1080p');
 
 new TypeIt('#info', {
   speed: 45

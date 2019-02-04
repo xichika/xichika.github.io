@@ -76,7 +76,7 @@ new TypeIt('#ynn', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('SAO Alicization 17');
+.type('SAO Alicization Eps 17');
 
 new TypeIt('#uncom', {
   speed: 45

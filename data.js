@@ -76,7 +76,11 @@ new TypeIt('#ynn', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('Slime Eps 18');
+.type('- Tensei Shitara Slime Datta Ken Eps 18')
+.break()
+.type('- Mob Psycho 100 II Eps 05 [proses]')
+.break()
+.type('- Dororo Eps 05 [proses]');
 
 new TypeIt('#uncom', {
   speed: 45

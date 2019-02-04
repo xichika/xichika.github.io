@@ -95,7 +95,7 @@ new TypeIt('#info', {
 .type('Jika ente bahlul dan suka download resolusi burem seperti 360p/480p maka bukan disini tempatnya gaes dan disini tidak update anime episode banyak seperti One Piece, Boruto, Black Clover atau Fairy Tail karena udah ketinggalan jauh hhhh')
 .break()
 .break()
-.type('Semua link download anime disini memakai google drive agar wuzz dan untuk fileya akan otomatis update sendiri jika gw upload anime episode terbarunya.')
+.type('Semua link download anime disini memakai google drive agar wuzz dan untuk filenya akan otomatis update sendiri jika gw upload anime episode terbarunya.')
 .break()
 .break()
 .type('Jika ente bingung dengan episode yang baru rilis itu episode berapa, silahkan masuk ke situs dibawah ini untuk melihat info nomor episode terbarunya:')

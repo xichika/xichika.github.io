@@ -11,7 +11,7 @@ new TypeIt('#domekano', {
 new TypeIt('#dororo', {
   speed: 45
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#egao', {
   speed: 45
@@ -73,15 +73,6 @@ new TypeIt('#ynn', {
 })
 .type('Eps <b>04</b>');
 
-new TypeIt('#update', {
-  speed: 45
-})
-.type('- Tensei Shitara Slime Datta Ken Eps 18')
-.break()
-.type('- Mob Psycho 100 II Eps 05 [proses]')
-.break()
-.type('- Dororo Eps 05 [proses]');
-
 new TypeIt('#uncom', {
   speed: 45
 })
@@ -90,6 +81,15 @@ new TypeIt('#uncom', {
 .type('- [HADE 10bit] adalah 720p 10bit')
 .break()
 .type('- [S-HADE] adalah 1080p');
+
+new TypeIt('#update', {
+  speed: 45
+})
+.type('- Tensei Shitara Slime Datta Ken Eps 18')
+.break()
+.type('- Mob Psycho 100 II Eps 05 [proses]')
+.break()
+.type('- Dororo Eps 05');
 
 new TypeIt('#info', {
   speed: 45

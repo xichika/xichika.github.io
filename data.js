@@ -83,7 +83,7 @@ new TypeIt('#info', {
 })
 .type('Dalam koleksi ini gw cuma upload video anime beresolusi 720p dan 1080p saja.')
 .break()
-.type('Jika ente bahlul dan suka download resolusi burem seperti 360p/480p maka bukan disini tempatnya gaes dan disini gak update anime berepisode banyak seperti One Piece, Boruto, atau Fairi Tail karena udah ketinggalan jauh hhhh')
+.type('Jika ente bahlul dan suka download resolusi burem seperti 360p/480p maka bukan disini tempatnya gaes dan disini gak update anime berepisode banyak seperti One Piece, Boruto, Black Clover atau Fairi Tail karena udah ketinggalan jauh hhhh')
 .break()
 .break()
 .type('Semua link download anime disini memakai google drive agar wuzz dan untuk fileya akan otomatis update sendiri jika gw upload anime episode terbarunya.')

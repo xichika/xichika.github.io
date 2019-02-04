@@ -61,7 +61,7 @@ new TypeIt('#tate', {
 new TypeIt('#slime', {
   speed: 45
 })
-.type('Eps <b>17</b>');
+.type('Eps <b>18</b>');
 
 new TypeIt('#wz', {
   speed: 45
@@ -76,7 +76,7 @@ new TypeIt('#ynn', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('SAO Alicization Eps 17');
+.type('Slime Eps 18');
 
 new TypeIt('#uncom', {
   speed: 45

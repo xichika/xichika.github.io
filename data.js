@@ -85,7 +85,9 @@ new TypeIt('#uncom', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kakegurui×× Eps 05');
+.type('- Kakegurui×× Eps 05')
+.break()
+.type('- W\'z Eps 05');
 
 new TypeIt('#info', {
   speed: 45

@@ -56,7 +56,7 @@ new TypeIt('#sao', {
 new TypeIt('#tate', {
   speed: 45
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#slime', {
   speed: 45
@@ -85,9 +85,7 @@ new TypeIt('#uncom', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kakegurui×× Eps 05')
-.break()
-.type('- W\'z Eps 05');
+.type('- Tate no Yuusha no Nariagari Eps 05');
 
 new TypeIt('#info', {
   speed: 45

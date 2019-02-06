@@ -66,7 +66,7 @@ new TypeIt('#slime', {
 new TypeIt('#wz', {
   speed: 45
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#ynn', {
   speed: 45

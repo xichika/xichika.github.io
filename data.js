@@ -1,80 +1,80 @@
 new TypeIt('#boogiepop', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>06</b>');
 
 new TypeIt('#domekano', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>04</b>');
 
 new TypeIt('#dororo', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>05</b>');
 
 new TypeIt('#egao', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>05</b>');
 
 new TypeIt('#gaf', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>04</b>');
 
 new TypeIt('#gnh', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>04</b>');
 
 new TypeIt('#grimms', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>04</b>');
 
 new TypeIt('#kkg', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>05</b>');
 
 new TypeIt('#asuka', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>04</b>');
 
 new TypeIt('#mob', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>05</b>');
 
 new TypeIt('#sao', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>17</b>');
 
 new TypeIt('#tate', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>05</b>');
 
 new TypeIt('#slime', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>18</b>');
 
 new TypeIt('#wz', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>05</b>');
 
 new TypeIt('#ynn', {
-  speed: 45
+  speed: 25
 })
 .type('Eps <b>05</b>');
 
 new TypeIt('#reso', {
-  speed: 45
+  speed: 25
 })
 .type('- [HADE 10bit] adalah 720p 10bit')
 .break()

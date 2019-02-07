@@ -71,7 +71,7 @@ new TypeIt('#wz', {
 new TypeIt('#ynn', {
   speed: 45
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#reso', {
   speed: 45
@@ -83,7 +83,7 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Tate no Yuusha no Nariagari Eps 05');
+.type('- Yakusoku no Neverland Eps 05');
 
 new TypeIt('#info', {
   speed: 45

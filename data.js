@@ -3,6 +3,11 @@ new TypeIt('#boogiepop', {
 })
 .type('Eps <b>06</b>');
 
+new TypeIt('#dal', {
+  speed: 25
+})
+.type('Eps <b>04</b>');
+
 new TypeIt('#domekano', {
   speed: 25
 })

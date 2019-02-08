@@ -46,7 +46,7 @@ new TypeIt('#kkg', {
 new TypeIt('#asuka', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#mob', {
   speed: 25
@@ -90,7 +90,9 @@ new TypeIt('#update', {
 })
 .type('- Date A Live III Eps 05')
 .break()
-.type('- Domestic na Kanojo Eps 05');
+.type('- Domestic na Kanojo Eps 05')
+.break()
+.type('- Mahou Shoujo Tokushusen Asuka Eps 05');
 
 new TypeIt('#info', {
   speed: 45

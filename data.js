@@ -26,7 +26,7 @@ new TypeIt('#egao', {
 new TypeIt('#gaf', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#gnh', {
   speed: 25
@@ -90,7 +90,9 @@ new TypeIt('#update', {
 })
 .type('- Yakusoku no Neverland Eps 05')
 .break()
-.type('- Gotoubun no Hanayome Eps 05');
+.type('- Gotoubun no Hanayome Eps 05')
+.break()
+.type('- Girly Air Force Eps 05');
 
 new TypeIt('#info', {
   speed: 45

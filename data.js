@@ -6,12 +6,12 @@ new TypeIt('#boogiepop', {
 new TypeIt('#dal', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#domekano', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#dororo', {
   speed: 25
@@ -88,11 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Yakusoku no Neverland Eps 05')
+.type('- Date A Live III Eps 05')
 .break()
-.type('- Gotoubun no Hanayome Eps 05')
-.break()
-.type('- Girly Air Force Eps 05');
+.type('- Domestic na Kanojo Eps 05');
 
 new TypeIt('#info', {
   speed: 45

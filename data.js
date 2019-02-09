@@ -1,7 +1,7 @@
 new TypeIt('#boogiepop', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#dal', {
   speed: 25
@@ -92,7 +92,9 @@ new TypeIt('#update', {
 .break()
 .type('- Domestic na Kanojo Eps 05')
 .break()
-.type('- Mahou Shoujo Tokushusen Asuka Eps 05');
+.type('- Mahou Shoujo Tokushusen Asuka Eps 05')
+.break()
+.type('- Boogiepop wa Warawanai Eps 07');
 
 new TypeIt('#info', {
   speed: 45

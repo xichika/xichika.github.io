@@ -21,7 +21,7 @@ new TypeIt('#dororo', {
 new TypeIt('#egao', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#gaf', {
   speed: 25
@@ -36,7 +36,7 @@ new TypeIt('#gnh', {
 new TypeIt('#grimms', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#kkg', {
   speed: 25
@@ -88,13 +88,15 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Date A Live III Eps 05')
-.break()
 .type('- Domestic na Kanojo Eps 05')
 .break()
 .type('- Mahou Shoujo Tokushusen Asuka Eps 05')
 .break()
-.type('- Boogiepop wa Warawanai Eps 07');
+.type('- Boogiepop wa Warawanai Eps 07')
+.break()
+.type('- Grimms Notes The Animation Eps 05')
+.break()
+.type('- Egao no Daika Eps 06');
 
 new TypeIt('#info', {
   speed: 45

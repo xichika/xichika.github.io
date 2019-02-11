@@ -16,7 +16,7 @@ new TypeIt('#domekano', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#egao', {
   speed: 25
@@ -88,15 +88,15 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Boogiepop wa Warawanai Eps 07')
-.break()
 .type('- Grimms Notes The Animation Eps 05')
 .break()
 .type('- Egao no Daika Eps 06')
 .break()
 .type('- Sword Art Online Alicization Eps 18')
 .break()
-.type('- W\'z Eps 06');
+.type('- W\'z Eps 06')
+.break()
+.type('- Dororo Eps 06');
 
 new TypeIt('#info', {
   speed: 45

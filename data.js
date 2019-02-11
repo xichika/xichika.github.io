@@ -88,15 +88,11 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Grimms Notes The Animation Eps 05')
+.type('- Dororo Eps 06')
 .break()
-.type('- Egao no Daika Eps 06')
+.type('- Tensei Shitara Slime Datta Ken Eps 19 [waiting]')
 .break()
-.type('- Sword Art Online Alicization Eps 18')
-.break()
-.type('- W\'z Eps 06')
-.break()
-.type('- Dororo Eps 06');
+.type('- Mob Psycho 100 II Eps 06 [waiting]');
 
 new TypeIt('#info', {
   speed: 45

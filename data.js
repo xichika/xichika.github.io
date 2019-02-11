@@ -51,7 +51,7 @@ new TypeIt('#asuka', {
 new TypeIt('#mob', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#sao', {
   speed: 25
@@ -66,7 +66,7 @@ new TypeIt('#tate', {
 new TypeIt('#slime', {
   speed: 25
 })
-.type('Eps <b>18</b>');
+.type('Eps <b>19</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -90,9 +90,9 @@ new TypeIt('#update', {
 })
 .type('- Dororo Eps 06')
 .break()
-.type('- Tensei Shitara Slime Datta Ken Eps 19 [waiting]')
+.type('- Tensei Shitara Slime Datta Ken Eps 19')
 .break()
-.type('- Mob Psycho 100 II Eps 06 [waiting]');
+.type('- Mob Psycho 100 II Eps 06');
 
 new TypeIt('#info', {
   speed: 45

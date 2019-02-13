@@ -41,7 +41,7 @@ new TypeIt('#grimms', {
 new TypeIt('#kkg', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#asuka', {
   speed: 25
@@ -88,11 +88,7 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Dororo Eps 06')
-.break()
-.type('- Tensei Shitara Slime Datta Ken Eps 19')
-.break()
-.type('- Mob Psycho 100 II Eps 06');
+.type('- Kakegurui×× Eps 06');
 
 new TypeIt('#info', {
   speed: 45

@@ -3,10 +3,8 @@ new TypeIt('#boogiepop', {
 })
 .type('Eps <b>07</b>');
 
-new TypeIt('#dal', {
-  speed: 25
-})
-.type('Eps <b>05</b>');
+var text = "Eps <b>05</b>";  // String written inside quotes
+document.getElementById("dal").innerHTML = text;
 
 new TypeIt('#domekano', {
   speed: 25

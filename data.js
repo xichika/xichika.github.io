@@ -95,7 +95,8 @@ new TypeIt('#update', {
 .break()
 .type('- Girly Air Force Eps 06')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 06');
+.type('- Tate no Yuusha no Nariagari Eps 06')
+cursorChar: '_');
 
 new TypeIt('#info', {
   speed: 45

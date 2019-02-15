@@ -6,7 +6,7 @@ new TypeIt('#boogiepop', {
 new TypeIt('#dal', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#domekano', {
   speed: 25
@@ -88,13 +88,7 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Gotoubun no Hanayome Eps 06')
-.break()
-.type('- Yakusoku no Neverland Eps 06')
-.break()
-.type('- Girly Air Force Eps 06')
-.break()
-.type('- Tate no Yuusha no Nariagari Eps 06');
+.type('- Date A Live III Eps 06');
 
 new TypeIt('#info', {
   speed: 45

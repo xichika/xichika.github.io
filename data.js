@@ -1,7 +1,7 @@
 new TypeIt('#boogiepop', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#dal', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Boogiepop wa Warawanai Eps 08')
+.break()
 .type('- Date A Live III Eps 06');
 
 new TypeIt('#info', {

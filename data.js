@@ -6,10 +6,8 @@ new TypeIt('#boogiepop', {
 var text = "Eps <b>05</b>";  // String written inside quotes
 document.getElementById("dal").innerHTML = text;
 
-new TypeIt('#domekano', {
-  speed: 25
-})
-.type('Eps <b>05</b>');
+var text = "Eps <b>05</b>";  // String written inside quotes
+document.getElementById("domekano").innerHTML = text;
 
 new TypeIt('#dororo', {
   speed: 25

@@ -21,7 +21,7 @@ new TypeIt('#dororo', {
 new TypeIt('#egao', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#gaf', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Egao no Daika Eps 07')
+.break()
 .type('- Mahou Shoujo Tokushusen Asuka Eps 06')
 .break()
 .type('- Domestic na Kanojo Eps 06')

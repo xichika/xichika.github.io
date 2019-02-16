@@ -11,7 +11,7 @@ new TypeIt('#dal', {
 new TypeIt('#domekano', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#dororo', {
   speed: 25
@@ -46,7 +46,7 @@ new TypeIt('#kkg', {
 new TypeIt('#asuka', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#mob', {
   speed: 25
@@ -88,6 +88,10 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Mahou Shoujo Tokushusen Asuka Eps 06')
+.break()
+.type('- Domestic na Kanojo Eps 06')
+.break()
 .type('- Boogiepop wa Warawanai Eps 08')
 .break()
 .type('- Date A Live III Eps 06');

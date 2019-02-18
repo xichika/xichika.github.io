@@ -66,7 +66,7 @@ new TypeIt('#tate', {
 new TypeIt('#slime', {
   speed: 25
 })
-.type('Eps <b>19</b>');
+.type('Eps <b>20</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -88,9 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Dororo Eps 07')
+.type('- Tensei Shitara Slime Datta Ken Eps 20')
 .break()
-.type('- W\'z Eps 07');
+.type('- Dororo Eps 07');
 
 new TypeIt('#info', {
   speed: 45

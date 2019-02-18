@@ -16,7 +16,7 @@ new TypeIt('#domekano', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#egao', {
   speed: 25
@@ -88,15 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- W\'z Eps 07')
+.type('- Dororo Eps 07')
 .break()
-.type('- Grimms Notes The Animation Eps 06')
-.break()
-.type('- Egao no Daika Eps 07')
-.break()
-.type('- Mahou Shoujo Tokushusen Asuka Eps 06')
-.break()
-.type('- Domestic na Kanojo Eps 06');
+.type('- W\'z Eps 07');
 
 new TypeIt('#info', {
   speed: 45

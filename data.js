@@ -41,7 +41,7 @@ new TypeIt('#grimms', {
 new TypeIt('#kkg', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#asuka', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Kakegurui×× Eps 07')
+.break()
 .type('- Tate no Yuusha no Nariagari Eps 07');
 
 new TypeIt('#info', {

@@ -31,7 +31,7 @@ new TypeIt('#gaf', {
 new TypeIt('#gnh', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#grimms', {
   speed: 25
@@ -88,11 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Yakusoku no Neverland Eps 07')
+.type('- Gotoubun no Hanayome Eps 07')
 .break()
-.type('- Kakegurui×× Eps 07')
-.break()
-.type('- Tate no Yuusha no Nariagari Eps 07');
+.type('- Yakusoku no Neverland Eps 07');
 
 new TypeIt('#info', {
   speed: 45

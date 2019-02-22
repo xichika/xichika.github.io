@@ -11,7 +11,7 @@ new TypeIt('#dal', {
 new TypeIt('#domekano', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#dororo', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Domestic na Kanojo Eps 07')
+.break()
 .type('- Boogiepop wa Warawanai Eps 09')
 .break()
 .type('- Date A Live III Eps 07')

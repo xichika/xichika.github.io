@@ -1,12 +1,12 @@
 new TypeIt('#boogiepop', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#dal', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#domekano', {
   speed: 25
@@ -26,7 +26,7 @@ new TypeIt('#egao', {
 new TypeIt('#gaf', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#gnh', {
   speed: 25
@@ -88,9 +88,13 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Gotoubun no Hanayome Eps 07')
+.type('- Boogiepop wa Warawanai Eps 09')
 .break()
-.type('- Yakusoku no Neverland Eps 07');
+.type('- Date A Live III Eps 07')
+.break()
+.type('- Girly Air Force Eps 07')
+.break()
+.type('- Gotoubun no Hanayome Eps 07');
 
 new TypeIt('#info', {
   speed: 45

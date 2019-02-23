@@ -46,7 +46,7 @@ new TypeIt('#kkg', {
 new TypeIt('#asuka', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#mob', {
   speed: 25
@@ -88,15 +88,15 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Mahou Shoujo Tokushusen Asuka Eps 07')
+.break()
 .type('- Domestic na Kanojo Eps 07')
 .break()
 .type('- Boogiepop wa Warawanai Eps 09')
 .break()
 .type('- Date A Live III Eps 07')
 .break()
-.type('- Girly Air Force Eps 07')
-.break()
-.type('- Gotoubun no Hanayome Eps 07');
+.type('- Girly Air Force Eps 07');
 
 new TypeIt('#info', {
   speed: 45

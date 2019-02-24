@@ -21,7 +21,7 @@ new TypeIt('#dororo', {
 new TypeIt('#egao', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#gaf', {
   speed: 25
@@ -36,7 +36,7 @@ new TypeIt('#gnh', {
 new TypeIt('#grimms', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#kkg', {
   speed: 25
@@ -88,6 +88,10 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Egao no Daika Eps 08')
+.break()
+.type('- Grimms Notes The Animation Eps 07')
+.break()
 .type('- W\'z Eps 08')
 .break()
 .type('- Sword Art Online: Alicization Eps 19');

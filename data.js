@@ -51,7 +51,7 @@ new TypeIt('#asuka', {
 new TypeIt('#mob', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#sao', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Mob Psycho 100 II Eps 08')
+.break()
 .type('- Tensei Shitara Slime Datta Ken Eps 21')
 .break()
 .type('- Dororo Eps 08')

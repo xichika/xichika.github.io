@@ -1,7 +1,7 @@
 new TypeIt('#boogiepop', {
   speed: 25
 })
-.type('Eps <b>09</b>');
+.type('Eps <b>12</b>');
 
 new TypeIt('#dal', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Boogiepop wa Warawanai Eps 10-12')
+.break()
 .type('- Egao no Daika Eps 08')
 .break()
 .type('- Grimms Notes The Animation Eps 07')

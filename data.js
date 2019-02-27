@@ -1,7 +1,7 @@
 new TypeIt('#boogiepop', {
   speed: 25
 })
-.type('Eps <b>12</b>');
+.type('Eps <b>13</b>');
 
 new TypeIt('#dal', {
   speed: 25
@@ -41,7 +41,7 @@ new TypeIt('#grimms', {
 new TypeIt('#kkg', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#asuka', {
   speed: 25
@@ -61,7 +61,7 @@ new TypeIt('#sao', {
 new TypeIt('#tate', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#slime', {
   speed: 25
@@ -88,13 +88,11 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Mob Psycho 100 II Eps 08')
+.type('- Tate no Yuusha no Nariagari Eps 08')
 .break()
-.type('- Tensei Shitara Slime Datta Ken Eps 21')
+.type('- Kakegurui×× Eps 08')
 .break()
-.type('- Dororo Eps 08')
-.break()
-.type('- Boogiepop wa Warawanai Eps 10-12');
+.type('- Boogiepop wa Warawanai Eps 13');
 
 new TypeIt('#info', {
   speed: 45

@@ -90,7 +90,7 @@ new TypeIt('#update', {
 })
 .type('- Mahou Shoujo Tokushusen Asuka Eps 08')
 .break()
-.type('- Egao no Daika Eps 08')
+.type('- Egao no Daika Eps 09')
 .break()
 .type('- Domestic na Kanojo Eps 08')
 .break()

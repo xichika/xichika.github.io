@@ -71,7 +71,7 @@ new TypeIt('#slime', {
 new TypeIt('#wz', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#ynn', {
   speed: 25
@@ -88,13 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Sword Art Online: Alicization Eps 20')
+.type('- W\'z Eps 09')
 .break()
-.type('- Mahou Shoujo Tokushusen Asuka Eps 08')
-.break()
-.type('- Egao no Daika Eps 09')
-.break()
-.type('- Domestic na Kanojo Eps 08');
+.type('- Sword Art Online: Alicization Eps 20');
 
 new TypeIt('#info', {
   speed: 45

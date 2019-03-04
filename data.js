@@ -16,7 +16,7 @@ new TypeIt('#domekano', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#egao', {
   speed: 25
@@ -36,7 +36,7 @@ new TypeIt('#gnh', {
 new TypeIt('#grimms', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#kkg', {
   speed: 25
@@ -51,7 +51,7 @@ new TypeIt('#asuka', {
 new TypeIt('#mob', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#sao', {
   speed: 25
@@ -66,7 +66,7 @@ new TypeIt('#tate', {
 new TypeIt('#slime', {
   speed: 25
 })
-.type('Eps <b>21</b>');
+.type('Eps <b>22</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -88,9 +88,13 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- W\'z Eps 09')
+.type('- Mob Psycho 100 II Eps 09')
 .break()
-.type('- Sword Art Online: Alicization Eps 20');
+.type('- Tensei Shitara Slime Datta Ken Eps 22')
+.break()
+.type('- Dororo Eps 09')
+.break()
+.type('- Grimms Notes The Animation Eps 08');
 
 new TypeIt('#info', {
   speed: 45

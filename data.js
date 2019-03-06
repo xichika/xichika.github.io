@@ -41,7 +41,7 @@ new TypeIt('#grimms', {
 new TypeIt('#kkg', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#asuka', {
   speed: 25
@@ -88,9 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Tate no Yuusha no Nariagari Eps 09')
+.type('- Kakegurui×× Eps 09')
 .break()
-.type('- Mob Psycho 100 II Eps 09');
+.type('- Tate no Yuusha no Nariagari Eps 09');
 
 new TypeIt('#info', {
   speed: 45

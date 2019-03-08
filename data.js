@@ -1,12 +1,12 @@
 new TypeIt('#boogiepop', {
   speed: 25
 })
-.type('Eps <b>14</b>');
+.type('Eps <b>15</b>');
 
 new TypeIt('#dal', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#domekano', {
   speed: 25
@@ -88,11 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Gotoubun no Hanayome Eps 09')
+.type('- Date A Live III Eps 09')
 .break()
-.type('- Girly Air Force Eps 09')
-.break()
-.type('- Yakusoku no Neverland Eps 09');
+.type('- Boogiepop wa Warawanai Eps 15');
 
 new TypeIt('#info', {
   speed: 45

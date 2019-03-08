@@ -26,12 +26,12 @@ new TypeIt('#egao', {
 new TypeIt('#gaf', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#gnh', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#grimms', {
   speed: 25
@@ -88,11 +88,11 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Yakusoku no Neverland Eps 09')
+.type('- Gotoubun no Hanayome Eps 09')
 .break()
-.type('- Kakegurui×× Eps 09')
+.type('- Girly Air Force Eps 09')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 09');
+.type('- Yakusoku no Neverland Eps 09');
 
 new TypeIt('#info', {
   speed: 45

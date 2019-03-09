@@ -36,7 +36,7 @@ new TypeIt('#gnh', {
 new TypeIt('#grimms', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#kkg', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Grimms Notes The Animation Eps 09')
+.break()
 .type('- Mahou Shoujo Tokushusen Asuka Eps 09')
 .break()
 .type('- Egao no Daika Eps 10')

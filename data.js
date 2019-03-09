@@ -56,7 +56,7 @@ new TypeIt('#mob', {
 new TypeIt('#sao', {
   speed: 25
 })
-.type('Eps <b>20</b>');
+.type('Eps <b>21</b>');
 
 new TypeIt('#tate', {
   speed: 25
@@ -88,17 +88,13 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Sword Art Online Alicization Eps 21')
+.break()
 .type('- Grimms Notes The Animation Eps 09')
 .break()
 .type('- Mahou Shoujo Tokushusen Asuka Eps 09')
 .break()
-.type('- Egao no Daika Eps 10')
-.break()
-.type('- Domestic na Kanojo Eps 09')
-.break()
-.type('- Date A Live III Eps 09')
-.break()
-.type('- Boogiepop wa Warawanai Eps 15');
+.type('- Egao no Daika Eps 10');
 
 new TypeIt('#info', {
   speed: 45

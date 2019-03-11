@@ -88,7 +88,7 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Mob Psycho 100 II Eps 10 [upcoming]')
+.type('- Mob Psycho 100 II Eps 10')
 .break()
 .type('- Dororo Eps 10')
 .break()

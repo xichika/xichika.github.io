@@ -16,7 +16,7 @@ new TypeIt('#domekano', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>09</b>');
+.type('Eps <b>10</b>');
 
 new TypeIt('#egao', {
   speed: 25
@@ -51,7 +51,7 @@ new TypeIt('#asuka', {
 new TypeIt('#mob', {
   speed: 25
 })
-.type('Eps <b>09</b>');
+.type('Eps <b>10</b>');
 
 new TypeIt('#sao', {
   speed: 25
@@ -66,7 +66,7 @@ new TypeIt('#tate', {
 new TypeIt('#slime', {
   speed: 25
 })
-.type('Eps <b>22</b>');
+.type('Eps <b>23</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -88,9 +88,11 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- W\'z Eps 10')
+.type('- Mob Psycho 100 II Eps 10 [upcoming]')
 .break()
-.type('- Sword Art Online Alicization Eps 21');
+.type('- Dororo Eps 10')
+.break()
+.type('- Tensei Shitara Slime Datta Ken Eps 23');
 
 new TypeIt('#info', {
   speed: 45

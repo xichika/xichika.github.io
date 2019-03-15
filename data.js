@@ -1,7 +1,7 @@
 new TypeIt('#boogiepop', {
   speed: 25
 })
-.type('Eps <b>15</b>');
+.type('Eps <b>16</b>');
 
 new TypeIt('#dal', {
   speed: 25
@@ -46,7 +46,7 @@ new TypeIt('#kkg', {
 new TypeIt('#asuka', {
   speed: 25
 })
-.type('Eps <b>09</b>');
+.type('Eps <b>10</b>');
 
 new TypeIt('#mob', {
   speed: 25
@@ -88,6 +88,10 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Mahou Shoujo Tokushusen Asuka Eps 10')
+.break()
+.type('- Boogiepop wa Warawanai Eps 16')
+.break()
 .type('- Egao no Daika Eps 11')
 .break()
 .type('- Date A Live III Eps 10');

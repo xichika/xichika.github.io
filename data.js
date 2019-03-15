@@ -21,7 +21,7 @@ new TypeIt('#dororo', {
 new TypeIt('#egao', {
   speed: 25
 })
-.type('Eps <b>10</b>');
+.type('Eps <b>11</b>');
 
 new TypeIt('#gaf', {
   speed: 25
@@ -88,9 +88,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Date A Live III Eps 10')
+.type('- Egao no Daika Eps 11')
 .break()
-.type('- Gotoubun no Hanayome Eps 10');
+.type('- Date A Live III Eps 10');
 
 new TypeIt('#info', {
   speed: 45

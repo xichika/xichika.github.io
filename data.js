@@ -36,7 +36,7 @@ new TypeIt('#gnh', {
 new TypeIt('#grimms', {
   speed: 25
 })
-.type('Eps <b>09</b>');
+.type('Eps <b>10</b>');
 
 new TypeIt('#kkg', {
   speed: 25
@@ -56,7 +56,7 @@ new TypeIt('#mob', {
 new TypeIt('#sao', {
   speed: 25
 })
-.type('Eps <b>21</b>');
+.type('Eps <b>22</b>');
 
 new TypeIt('#tate', {
   speed: 25
@@ -88,9 +88,11 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Domestic na Kanojo Eps 10')
+.type('- Sword Art Online Alicization Eps 22')
 .break()
-.type('- Mahou Shoujo Tokushusen Asuka Eps 10');
+.type('- Grimms Notes The Animation Eps 10')
+.break()
+.type('- Domestic na Kanojo Eps 10');
 
 new TypeIt('#info', {
   speed: 45

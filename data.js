@@ -102,11 +102,11 @@ new TypeIt('#info', {
 .type('Jika ente bahlul dan suka download resolusi burem seperti 360p/480p maka bukan disini tempatnya gaes dan disini tidak update anime episode banyak seperti One Piece, Boruto, Black Clover atau Fairy Tail karena udah ketinggalan jauh hhhh')
 .break()
 .break()
-.type('Semua link download disini memakai google drive biar joss. Untuk list episodenya berbentuk scroll inside [seret kebawah pada area listnya] dan file listnya akan otomatis update sendiri jika videonya diupload.')
+.type('Semua link download disini memakai google drive biar joss. Untuk file list episodenya akan otomatis update sendiri jika videonya diupload.')
 .break()
 .break()
 .type('Jika ente bingung dengan episode yang baru rilis itu episode berapa, silahkan masuk ke situs dibawah ini untuk melihat info episode terbarunya:')
 .break()
 .type('- https://horriblesubs.info')
 .break()
-.type('- https://torrents.ohys.net/t/');
+.type('- https://torrents.ohys.net/t/or');

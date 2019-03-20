@@ -81,7 +81,7 @@ new TypeIt('#ynn', {
 new TypeIt('#reso', {
   speed: 25
 })
-.type('- [HADE 10bit] adalah 720p 10bit')
+.type('- [HADE 10bit] adalah 720p')
 .break()
 .type('- [S-HADE] adalah 1080p');
 

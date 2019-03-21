@@ -76,7 +76,7 @@ new TypeIt('#wz', {
 new TypeIt('#ynn', {
   speed: 25
 })
-.type('Eps <b>10</b>');
+.type('Eps <b>11</b>');
 
 new TypeIt('#reso', {
   speed: 25
@@ -88,6 +88,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Yakusoku no Neverland Eps 11')
+.break()
 .type('- Girly Air Force Eps 11')
 .break()
 .type('- Kakegurui×× Eps 11');

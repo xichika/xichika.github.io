@@ -16,7 +16,7 @@ new TypeIt('#domekano', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>11</b>');
+.type('Eps <b>12</b>');
 
 new TypeIt('#egao', {
   speed: 25
@@ -51,7 +51,7 @@ new TypeIt('#asuka', {
 new TypeIt('#mob', {
   speed: 25
 })
-.type('Eps <b>11</b>');
+.type('Eps <b>12</b>');
 
 new TypeIt('#sao', {
   speed: 25

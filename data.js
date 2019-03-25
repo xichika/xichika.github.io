@@ -66,7 +66,7 @@ new TypeIt('#tate', {
 new TypeIt('#slime', {
   speed: 25
 })
-.type('Eps <b>24</b>');
+.type('Eps <b>25</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -88,9 +88,11 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Sword Art Online Alicization Eps 23')
+.type('- Mob Psycho 100 II Eps 12')
 .break()
-.type('- Grimms Notes The Animation Eps 11');
+.type('- Dororo Eps 12')
+.break()
+.type('- Tensei Shitara Slime Datta Ken Eps 25 [END]');
 
 new TypeIt('#info', {
   speed: 45

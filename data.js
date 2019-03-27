@@ -61,12 +61,7 @@ new TypeIt('#sao', {
 new TypeIt('#tate', {
   speed: 25
 })
-.type('Eps <b>11</b>');
-
-new TypeIt('#slime', {
-  speed: 25
-})
-.type('Eps <b>25</b>');
+.type('Eps <b>12</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -88,11 +83,7 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Mob Psycho 100 II Eps 12')
-.break()
-.type('- Dororo Eps 12')
-.break()
-.type('- Tensei Shitara Slime Datta Ken Eps 25 [END]');
+.type('- Tate no Yuusha no Nariagari Eps 12');
 
 new TypeIt('#info', {
   speed: 45

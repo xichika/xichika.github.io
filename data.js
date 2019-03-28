@@ -53,11 +53,6 @@ new TypeIt('#dororo', {
 })
 .type('Eps <b>12</b>');
 
-new TypeIt('#gnh', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
-
 new TypeIt('#grimms', {
   speed: 25
 })
@@ -100,6 +95,8 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
+.type('- Gotoubun no Hanayome Eps 12 [END]')
+.break()
 .type('- Girly Air Force Eps 12 [END]')
 .break()
 .type('- Yakusoku no Neverland Eps 12 [END]');

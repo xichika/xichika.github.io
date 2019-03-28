@@ -83,9 +83,9 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kakegurui×× Eps 12 [END]')
+.type('- Girly Air Force Eps 12 [END]')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 12');
+.type('- Yakusoku no Neverland Eps 12 [END]');
 
 new TypeIt('#info', {
   speed: 45

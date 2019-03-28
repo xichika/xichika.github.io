@@ -83,6 +83,8 @@ new TypeIt('#reso', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Kakegurui×× Eps 12 [END]')
+.break()
 .type('- Tate no Yuusha no Nariagari Eps 12');
 
 new TypeIt('#info', {

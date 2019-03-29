@@ -33,11 +33,6 @@ new TypeIt('#kyojin', {
 })
 .type('<b>Upcoming</b>');
 
-new TypeIt('#boogiepop', {
-  speed: 25
-})
-.type('Eps <b>17</b>');
-
 new TypeIt('#dal', {
   speed: 25
 })
@@ -95,11 +90,9 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Gotoubun no Hanayome Eps 12 [END]')
+.type('- Boogiepop wa Warawanai Eps 18 [END]')
 .break()
-.type('- Girly Air Force Eps 12 [END]')
-.break()
-.type('- Yakusoku no Neverland Eps 12 [END]');
+.type('- Gotoubun no Hanayome Eps 12 [END]');
 
 new TypeIt('#reso', {
   speed: 25

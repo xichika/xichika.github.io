@@ -38,22 +38,12 @@ new TypeIt('#dal', {
 })
 .type('Eps <b>11</b>');
 
-new TypeIt('#domekano', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
-
 new TypeIt('#dororo', {
   speed: 25
 })
 .type('Eps <b>12</b>');
 
 new TypeIt('#grimms', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
-
-new TypeIt('#asuka', {
   speed: 25
 })
 .type('Eps <b>11</b>');
@@ -90,6 +80,10 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
+.type('- Mahou Shoujo Tokushusen Asuka Eps 12 [END]')
+.break()
+.type('- Domestic na Kanojo Eps 12 [END]')
+.break()
 .type('- Boogiepop wa Warawanai Eps 18 [END]')
 .break()
 .type('- Gotoubun no Hanayome Eps 12 [END]');

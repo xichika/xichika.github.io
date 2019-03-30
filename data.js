@@ -33,11 +33,6 @@ new TypeIt('#kyojin', {
 })
 .type('<b>Upcoming</b>');
 
-new TypeIt('#dal', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
-
 new TypeIt('#dororo', {
   speed: 25
 })
@@ -80,6 +75,8 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
+.type('- Date A Live III Eps 12 [END]')
+.break()
 .type('- Mahou Shoujo Tokushusen Asuka Eps 12 [END]')
 .break()
 .type('- Domestic na Kanojo Eps 12 [END]')

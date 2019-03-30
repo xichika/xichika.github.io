@@ -38,11 +38,6 @@ new TypeIt('#dororo', {
 })
 .type('Eps <b>12</b>');
 
-new TypeIt('#grimms', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
-
 new TypeIt('#mob', {
   speed: 25
 })
@@ -75,15 +70,15 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
+.type('- Grimms Notes The Animation Eps 12 [END]')
+.break()
 .type('- Date A Live III Eps 12 [END]')
 .break()
 .type('- Mahou Shoujo Tokushusen Asuka Eps 12 [END]')
 .break()
 .type('- Domestic na Kanojo Eps 12 [END]')
 .break()
-.type('- Boogiepop wa Warawanai Eps 18 [END]')
-.break()
-.type('- Gotoubun no Hanayome Eps 12 [END]');
+.type('- Boogiepop wa Warawanai Eps 18 [END]');
 
 new TypeIt('#reso', {
   speed: 25

@@ -38,11 +38,6 @@ new TypeIt('#dororo', {
 })
 .type('Eps <b>12</b>');
 
-new TypeIt('#mob', {
-  speed: 25
-})
-.type('Eps <b>12</b>');
-
 new TypeIt('#tate', {
   speed: 25
 })
@@ -65,11 +60,7 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Sword Art Online Alicization Eps 24 [END]')
-.break()
-.type('- Grimms Notes The Animation Eps 12 [END]')
-.break()
-.type('- Date A Live III Eps 12 [END]');
+.type('- Mob Psycho 100 II Eps 13 [END]');
 
 new TypeIt('#reso', {
   speed: 25

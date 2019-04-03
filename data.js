@@ -41,7 +41,7 @@ new TypeIt('#dororo', {
 new TypeIt('#tate', {
   speed: 25
 })
-.type('Eps <b>12</b>');
+.type('Eps <b>13</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -51,16 +51,12 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('Halaman ini masih dalam tahap pengeditan')
-.break()
-.type('List Anime akan ditambahkan jika ada lagi anime yg bagus')
-.break()
-.type('Halaman ini akan mulai berjalan update jika anime musim semi (spring) tiba');
+.type('- Tate no Yuusha no Nariagari Eps 13');
 
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Mob Psycho 100 II Eps 13 [END]');
+.type('- Tate no Yuusha no Nariagari Eps 13');
 
 new TypeIt('#reso', {
   speed: 25

@@ -16,7 +16,7 @@ new TypeIt('#kenja', {
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('<b>Upcoming</b>');
+.type('Eps <b>01</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
@@ -26,7 +26,7 @@ new TypeIt('#yaiba', {
 new TypeIt('#botak', {
   speed: 25
 })
-.type('<b>Upcoming</b>');
+.type('Eps <b>00</b>');
 
 new TypeIt('#kyojin', {
   speed: 25
@@ -51,7 +51,9 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Tate no Yuusha no Nariagari Eps 13');
+.type('- Fruits Basket Eps 01')
+.break()
+.type('- One Punch Man S2 Eps 00');
 
 new TypeIt('#oldupdate', {
   speed: 45

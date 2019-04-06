@@ -23,6 +23,11 @@ new TypeIt('#yaiba', {
 })
 .type('<b>Upcoming</b>');
 
+new TypeIt('#midara', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#botak', {
   speed: 25
 })
@@ -51,6 +56,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Midara na Ao-chan wa Benkyou ga Dekinai Eps 01')
+.break()
 .type('- Fruits Basket Eps 01')
 .break()
 .type('- One Punch Man S2 Eps 00');

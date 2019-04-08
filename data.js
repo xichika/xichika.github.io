@@ -48,6 +48,11 @@ new TypeIt('#tate', {
 })
 .type('Eps <b>13</b>');
 
+new TypeIt('#stoshi', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#wz', {
   speed: 25
 })
@@ -56,11 +61,11 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Shoumetsu Toshi Eps 01')
+.break()
 .type('- Fairy Gone Eps 01')
 .break()
-.type('- Kimetsu no Yaiba Eps 01')
-.break()
-.type('- Midara na Ao-chan wa Benkyou ga Dekinai Eps 01');
+.type('- Kimetsu no Yaiba Eps 01');
 
 new TypeIt('#oldupdate', {
   speed: 45

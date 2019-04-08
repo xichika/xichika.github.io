@@ -41,7 +41,7 @@ new TypeIt('#kyojin', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>12</b>');
+.type('Eps <b>13</b>');
 
 new TypeIt('#tate', {
   speed: 25
@@ -61,6 +61,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Dororo Eps 13')
+.break()
 .type('- Shoumetsu Toshi Eps 01')
 .break()
 .type('- Fairy Gone Eps 01')
@@ -70,7 +72,7 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Tate no Yuusha no Nariagari Eps 13');
+.type('- Dororo Eps 13');
 
 new TypeIt('#reso', {
   speed: 25

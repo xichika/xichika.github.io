@@ -28,6 +28,11 @@ new TypeIt('#midara', {
 })
 .type('Eps <b>01</b>');
 
+new TypeIt('#magmel', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#botak', {
   speed: 25
 })
@@ -63,11 +68,11 @@ new TypeIt('#update', {
 })
 .type('- Dororo Eps 13')
 .break()
+.type('- Gunjou no Magmel Eps 01')
+.break()
 .type('- Shoumetsu Toshi Eps 01')
 .break()
-.type('- Fairy Gone Eps 01')
-.break()
-.type('- Kimetsu no Yaiba Eps 01');
+.type('- Fairy Gone Eps 01');
 
 new TypeIt('#oldupdate', {
   speed: 45

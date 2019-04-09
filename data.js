@@ -56,7 +56,7 @@ new TypeIt('#stoshi', {
 new TypeIt('#wz', {
   speed: 25
 })
-.type('Eps <b>11</b>');
+.type('Eps <b>12</b>');
 
 new TypeIt('#update', {
   speed: 45
@@ -72,6 +72,8 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
+.type('- W\'z Eps 12')
+.break()
 .type('- Dororo Eps 13');
 
 new TypeIt('#reso', {

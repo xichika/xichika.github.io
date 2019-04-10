@@ -11,7 +11,7 @@ new TypeIt('#fgone', {
 new TypeIt('#kenja', {
   speed: 25
 })
-.type('<b>Upcoming</b>');
+.type('Eps <b>01</b>');
 
 new TypeIt('#fruits', {
   speed: 25
@@ -66,9 +66,9 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Tate no Yuusha no Nariagari Eps 14')
+.type('- Kenja no Mago Eps 01')
 .break()
-.type('- One Punch Man S2 Eps 01');
+.type('- Tate no Yuusha no Nariagari Eps 14');
 
 new TypeIt('#oldupdate', {
   speed: 45

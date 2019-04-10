@@ -51,7 +51,7 @@ new TypeIt('#dororo', {
 new TypeIt('#tate', {
   speed: 25
 })
-.type('Eps <b>13</b>');
+.type('Eps <b>14</b>');
 
 new TypeIt('#stoshi', {
   speed: 25
@@ -66,16 +66,14 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- One Punch Man S2 Eps 01')
+.type('- Tate no Yuusha no Nariagari Eps 14')
 .break()
-.type('- Dororo Eps 13');
+.type('- One Punch Man S2 Eps 01');
 
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- W\'z Eps 12')
-.break()
-.type('- Dororo Eps 13');
+.type('- Tate no Yuusha no Nariagari Eps 14');
 
 new TypeIt('#reso', {
   speed: 25

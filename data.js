@@ -46,7 +46,7 @@ new TypeIt('#kyojin', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>13</b>');
+.type('Eps <b>14</b>');
 
 new TypeIt('#tate', {
   speed: 25
@@ -66,6 +66,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Dororo Eps 14')
+.break()
 .type('- Gunjou no Magmel Eps 02')
 .break()
 .type('- Shoumetsu Toshi Eps 02')
@@ -75,7 +77,7 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Tate no Yuusha no Nariagari Eps 14');
+.type('- Dororo Eps 14');
 
 new TypeIt('#reso', {
   speed: 25

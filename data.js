@@ -31,7 +31,7 @@ new TypeIt('#midara', {
 new TypeIt('#magmel', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#botak', {
   speed: 25
@@ -56,7 +56,7 @@ new TypeIt('#tate', {
 new TypeIt('#stoshi', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -66,9 +66,11 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Fairy Gone Eps 02')
+.type('- Gunjou no Magmel Eps 02')
 .break()
-.type('- Kimetsu no Yaiba Eps 02');
+.type('- Shoumetsu Toshi Eps 02')
+.break()
+.type('- Fairy Gone Eps 02');
 
 new TypeIt('#oldupdate', {
   speed: 45

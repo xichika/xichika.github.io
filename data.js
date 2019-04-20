@@ -16,7 +16,7 @@ new TypeIt('#kenja', {
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>03</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
@@ -66,7 +66,9 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Midara na Ao-chan wa Benkyou ga Dekinai S3 Eps 03')
+.type('- Fruits Basket Eps 03')
+.break()
+.type('- Midara na Ao-chan wa Benkyou ga Dekinai Eps 03')
 .break()
 .type('- Bungo Stray Dogs S3 Eps 02');
 

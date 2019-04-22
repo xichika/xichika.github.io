@@ -31,7 +31,7 @@ new TypeIt('#midara', {
 new TypeIt('#magmel', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>03</b>');
 
 new TypeIt('#botak', {
   speed: 25
@@ -66,6 +66,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Gunjou no Magmel Eps 03')
+.break()
 .type('- Shoumetsu Toshi Eps 03')
 .break()
 .type('- Fairy Gone Eps 03');

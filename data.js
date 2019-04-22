@@ -46,7 +46,7 @@ new TypeIt('#kyojin', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>14</b>');
+.type('Eps <b>15</b>');
 
 new TypeIt('#tate', {
   speed: 25
@@ -66,16 +66,14 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Gunjou no Magmel Eps 03')
+.type('- Dororo Eps 15')
 .break()
-.type('- Shoumetsu Toshi Eps 03')
-.break()
-.type('- Fairy Gone Eps 03');
+.type('- Gunjou no Magmel Eps 03');
 
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Tate no Yuusha no Nariagari Eps 15');
+.type('- Dororo Eps 15');
 
 new TypeIt('#reso', {
   speed: 25

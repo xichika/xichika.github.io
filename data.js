@@ -16,7 +16,7 @@ new TypeIt('#kenja', {
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
@@ -26,7 +26,7 @@ new TypeIt('#yaiba', {
 new TypeIt('#midara', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#magmel', {
   speed: 25
@@ -66,6 +66,10 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Fruits Basket Eps 04')
+.break()
+.type('- Midara na Ao-chan wa Benkyou ga Dekinai Eps 04')
+.break()
 .type('- Bungo Stray Dogs S3 Eps 03');
 
 new TypeIt('#oldupdate', {

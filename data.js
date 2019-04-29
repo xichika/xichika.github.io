@@ -56,7 +56,7 @@ new TypeIt('#tate', {
 new TypeIt('#stoshi', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -66,6 +66,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Shoumetsu Toshi Eps 04')
+.break()
 .type('- Fairy Gone Eps 04')
 .break()
 .type('- Shingeki no Kyojin S3 Part 2 Eps 01');

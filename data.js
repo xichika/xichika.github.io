@@ -6,7 +6,7 @@ new TypeIt('#bungo', {
 new TypeIt('#fgone', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#kenja', {
   speed: 25
@@ -66,9 +66,9 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Shingeki no Kyojin S3 Part 2 Eps 01')
+.type('- Fairy Gone Eps 04')
 .break()
-.type('- Kimetsu no Yaiba Eps 04');
+.type('- Shingeki no Kyojin S3 Part 2 Eps 01');
 
 new TypeIt('#oldupdate', {
   speed: 45

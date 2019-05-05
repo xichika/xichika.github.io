@@ -41,7 +41,7 @@ new TypeIt('#botak', {
 new TypeIt('#kyojin', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#dororo', {
   speed: 25
@@ -66,7 +66,7 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 05');
+.type('- Shingeki no Kyojin S3 Part 2 Eps 02');
 
 new TypeIt('#oldupdate', {
   speed: 45

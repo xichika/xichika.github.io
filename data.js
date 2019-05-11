@@ -16,7 +16,7 @@ new TypeIt('#kenja', {
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
@@ -66,6 +66,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Fruits Basket Eps 06')
+.break()
 .type('- Bungo Stray Dogs S3 Eps 05');
 
 new TypeIt('#oldupdate', {

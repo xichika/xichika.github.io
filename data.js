@@ -21,7 +21,7 @@ new TypeIt('#fruits', {
 new TypeIt('#yaiba', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#midara', {
   speed: 25
@@ -66,6 +66,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Kimetsu no Yaiba Eps 06')
+.break()
 .type('- Midara na Ao-chan wa Benkyou ga Dekinai Eps 06')
 .break()
 .type('- Fruits Basket Eps 06')

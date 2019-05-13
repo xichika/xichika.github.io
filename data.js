@@ -46,7 +46,7 @@ new TypeIt('#kyojin', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>17</b>');
+.type('Eps <b>18</b>');
 
 new TypeIt('#tate', {
   speed: 25
@@ -66,6 +66,8 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Dororo Eps 18')
+.break()
 .type('- Fairy Gone Eps 06')
 .break()
 .type('- Gunjou no Magmel Eps 06')

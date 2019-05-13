@@ -6,7 +6,7 @@ new TypeIt('#bungo', {
 new TypeIt('#fgone', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#kenja', {
   speed: 25
@@ -31,7 +31,7 @@ new TypeIt('#midara', {
 new TypeIt('#magmel', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#botak', {
   speed: 25
@@ -56,7 +56,7 @@ new TypeIt('#tate', {
 new TypeIt('#stoshi', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#wz', {
   speed: 25
@@ -66,9 +66,13 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Shingeki no Kyojin S3 Part 2 Eps 03')
+.type('- Fairy Gone Eps 06')
 .break()
-.type('- Kimetsu no Yaiba Eps 06');
+.type('- Gunjou no Magmel Eps 06')
+.break()
+.type('- Shoumetsu Toshi Eps 06')
+.break()
+.type('- Shingeki no Kyojin S3 Part 2 Eps 03');
 
 new TypeIt('#oldupdate', {
   speed: 45

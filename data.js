@@ -79,6 +79,8 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
+.type('- Dororo Eps 18')
+.break()
 .type('- Tate no Yuusha no Nariagari Eps 18');
 
 new TypeIt('#reso', {

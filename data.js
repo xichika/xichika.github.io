@@ -11,7 +11,7 @@ new TypeIt('#fgone', {
 new TypeIt('#kenja', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#fruits', {
   speed: 25
@@ -51,7 +51,7 @@ new TypeIt('#dororo', {
 new TypeIt('#tate', {
   speed: 25
 })
-.type('Eps <b>18</b>');
+.type('Eps <b>19</b>');
 
 new TypeIt('#stoshi', {
   speed: 25
@@ -66,16 +66,16 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- One Punch Man S2 Eps 06')
+.type('- Kenja no Mago S2 Eps 06')
 .break()
-.type('- Dororo Eps 18');
+.type('- Tate no Yuusha no Nariagari Eps 19');
 
 new TypeIt('#oldupdate', {
   speed: 45
 })
 .type('- Dororo Eps 18')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 18');
+.type('- Tate no Yuusha no Nariagari Eps 19');
 
 new TypeIt('#reso', {
   speed: 25

@@ -31,7 +31,7 @@ new TypeIt('#midara', {
 new TypeIt('#magmel', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#botak', {
   speed: 25
@@ -56,16 +56,15 @@ new TypeIt('#tate', {
 new TypeIt('#stoshi', {
   speed: 25
 })
-.type('Eps <b>06</b>');
-
-new TypeIt('#wz', {
-  speed: 25
-})
-.type('Eps <b>12</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Shoumetsu Toshi Eps 07')
+.break()
+.type('- Gunjou no Magmel Eps 07')
+.break()
 .type('- Fairy Gone Eps 07')
 .break()
 .type('- Shingeki no Kyojin S3 Part 2 Eps 04');

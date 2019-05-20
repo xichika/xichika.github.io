@@ -6,7 +6,7 @@ new TypeIt('#bungo', {
 new TypeIt('#fgone', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#kenja', {
   speed: 25
@@ -41,7 +41,7 @@ new TypeIt('#botak', {
 new TypeIt('#kyojin', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#dororo', {
   speed: 25
@@ -66,11 +66,9 @@ new TypeIt('#wz', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 07')
+.type('- Fairy Gone Eps 07')
 .break()
-.type('- Fruits Basket Eps 07')
-.break()
-.type('- Bungo Stray Dogs S3 Eps 06');
+.type('- Shingeki no Kyojin S3 Part 2 Eps 04');
 
 new TypeIt('#oldupdate', {
   speed: 45

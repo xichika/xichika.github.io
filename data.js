@@ -1,7 +1,7 @@
 new TypeIt('#bungo', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#fgone', {
   speed: 25
@@ -16,7 +16,7 @@ new TypeIt('#kenja', {
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
@@ -26,7 +26,7 @@ new TypeIt('#yaiba', {
 new TypeIt('#midara', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#magmel', {
   speed: 25
@@ -61,11 +61,11 @@ new TypeIt('#stoshi', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kenja no Mago Eps 07')
+.type('- Fruits Basket Eps 08')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 20')
+.type('- Midara na Ao-chan wa Benkyou ga Dekinai Eps 08')
 .break()
-.type('- One Punch Man S2 Eps 07');
+.type('- Bungo Stray Dogs S3 Eps 07');
 
 new TypeIt('#oldupdate', {
   speed: 45

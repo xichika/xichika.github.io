@@ -46,7 +46,7 @@ new TypeIt('#kyojin', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>19</b>');
+.type('Eps <b>20</b>');
 
 new TypeIt('#tate', {
   speed: 25
@@ -56,21 +56,19 @@ new TypeIt('#tate', {
 new TypeIt('#stoshi', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Fairy Gone Eps 08')
+.type('- Dororo Eps 20')
 .break()
-.type('- Shingeki no Kyojin S3 Part 2 Eps 05')
-.break()
-.type('- Kimetsu no Yaiba Eps 08');
+.type('- Shoumetsu Toshi Eps 08');
 
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Dororo Eps 19')
+.type('- Dororo Eps 20')
 .break()
 .type('- Tate no Yuusha no Nariagari Eps 20');
 

@@ -31,12 +31,12 @@ new TypeIt('#midara', {
 new TypeIt('#magmel', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#botak', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#kyojin', {
   speed: 25
@@ -61,9 +61,9 @@ new TypeIt('#stoshi', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Dororo Eps 20')
+.type('- One Punch Man S2 Eps 08')
 .break()
-.type('- Shoumetsu Toshi Eps 08');
+.type('- Gunjou no Magmel Eps 08');
 
 new TypeIt('#oldupdate', {
   speed: 45

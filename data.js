@@ -41,7 +41,7 @@ new TypeIt('#botak', {
 new TypeIt('#kyojin', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#dororo', {
   speed: 25

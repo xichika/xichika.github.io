@@ -11,7 +11,7 @@ new TypeIt('#fgone', {
 new TypeIt('#kenja', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#fruits', {
   speed: 25
@@ -51,7 +51,7 @@ new TypeIt('#dororo', {
 new TypeIt('#tate', {
   speed: 25
 })
-.type('Eps <b>21</b>');
+.type('Eps <b>22</b>');
 
 new TypeIt('#stoshi', {
   speed: 25
@@ -61,22 +61,16 @@ new TypeIt('#stoshi', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Dororo Eps 21')
+.type('- Kenja no Mago Eps 09')
 .break()
-.type('- Shingeki no Kyojin S3 Part 2 Eps 06')
-.break()
-.type('- Fairy Gone Eps 09')
-.break()
-.type('- Gunjou no Magmel Eps 09')
-.break()
-.type('- Shoumetsu Toshi Eps 09');
+.type('- Tate no Yuusha no Nariagari Eps 22');
 
 new TypeIt('#oldupdate', {
   speed: 45
 })
 .type('- Dororo Eps 21')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 21');
+.type('- Tate no Yuusha no Nariagari Eps 22');
 
 new TypeIt('#reso', {
   speed: 25

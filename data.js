@@ -1,7 +1,7 @@
 new TypeIt('#bungo', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#fgone', {
   speed: 25
@@ -61,9 +61,7 @@ new TypeIt('#stoshi', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kenja no Mago Eps 09')
-.break()
-.type('- Tate no Yuusha no Nariagari Eps 22');
+.type('- Bungo Stray Dogs S3 Eps 09');
 
 new TypeIt('#oldupdate', {
   speed: 45

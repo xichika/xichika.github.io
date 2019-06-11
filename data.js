@@ -36,7 +36,7 @@ new TypeIt('#magmel', {
 new TypeIt('#botak', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#kyojin', {
   speed: 25
@@ -61,15 +61,9 @@ new TypeIt('#stoshi', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Dororo Eps 22')
+.type('- One Punch Man S2 Eps 09')
 .break()
-.type('- Shoumetsu Toshi Eps 10')
-.break()
-.type('- Gunjou no Magmel Eps 10')
-.break()
-.type('- Fairy Gone Eps 10')
-.break()
-.type('- Shingeki no Kyojin S3 Part 2 Eps 07');
+.type('- Dororo Eps 22');
 
 new TypeIt('#oldupdate', {
   speed: 45

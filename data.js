@@ -41,7 +41,7 @@ new TypeIt('#botak', {
 new TypeIt('#kyojin', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#dororo', {
   speed: 25
@@ -61,13 +61,9 @@ new TypeIt('#stoshi', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 11')
+.type('- Shingeki no Kyojin S3 Part 2 Eps 08')
 .break()
-.type('- Fruits Basket Eps 11')
-.break()
-.type('- Midara na Ao-chan wa Benkyou ga Dekinai Eps 11')
-.break()
-.type('- Bungo Stray Dogs S3 Eps 10');
+.type('- Kimetsu no Yaiba Eps 11');
 
 new TypeIt('#oldupdate', {
   speed: 45

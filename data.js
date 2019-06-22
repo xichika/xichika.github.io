@@ -1,42 +1,37 @@
 new TypeIt('#bungo', {
   speed: 25
 })
-.type('Eps <b>10</b>');
+.type('Eps <b>11</b>');
 
 new TypeIt('#fgone', {
   speed: 25
 })
-.type('Eps <b>10</b>');
+.type('Eps <b>11</b>');
 
 new TypeIt('#kenja', {
   speed: 25
 })
-.type('Eps <b>10</b>');
+.type('Eps <b>11</b>');
 
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>11</b>');
+.type('Eps <b>12</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
 })
-.type('Eps <b>11</b>');
-
-new TypeIt('#midara', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
+.type('Eps <b>12</b>');
 
 new TypeIt('#magmel', {
   speed: 25
 })
-.type('Eps <b>10</b>');
+.type('Eps <b>11</b>');
 
 new TypeIt('#botak', {
   speed: 25
 })
-.type('Eps <b>09</b>');
+.type('Eps <b>10</b>');
 
 new TypeIt('#kyojin', {
   speed: 25
@@ -46,31 +41,29 @@ new TypeIt('#kyojin', {
 new TypeIt('#dororo', {
   speed: 25
 })
-.type('Eps <b>22</b>');
+.type('Eps <b>23</b>');
 
 new TypeIt('#tate', {
   speed: 25
 })
-.type('Eps <b>23</b>');
+.type('Eps <b>24</b>');
 
 new TypeIt('#stoshi', {
   speed: 25
 })
-.type('Eps <b>10</b>');
+.type('Eps <b>11</b>');
 
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Shingeki no Kyojin S3 Part 2 Eps 08')
-.break()
-.type('- Kimetsu no Yaiba Eps 11');
+.type('- Kimetsu no Yaiba Eps 12');
 
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Dororo Eps 22')
+.type('- Dororo Eps 23')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 23');
+.type('- Tate no Yuusha no Nariagari Eps 24');
 
 new TypeIt('#reso', {
   speed: 25

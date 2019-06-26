@@ -28,26 +28,14 @@ new TypeIt('#kyojin', {
 })
 .type('Eps <b>09</b>');
 
-new TypeIt('#tate', {
-  speed: 25
-})
-.type('Eps <b>24</b>');
-
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Dororo Eps 24 [END]')
+.type('- Kenja no Mago Eps 12 [END]')
 .break()
-.type('- Shingeki no Kyojin S3 Part 2 Eps 09')
+.type('- Tate no Yuusha no Nariagari Eps 25 [END]')
 .break()
-.type('- Kimetsu no Yaiba Eps 12');
-
-new TypeIt('#oldupdate', {
-  speed: 45
-})
-.type('- Dororo Eps 24 [END]')
-.break()
-.type('- Tate no Yuusha no Nariagari Eps 24');
+.type('- Dororo Eps 24 [END]');
 
 new TypeIt('#reso', {
   speed: 25

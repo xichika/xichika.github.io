@@ -1,22 +1,12 @@
-new TypeIt('#bungo', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
-
-new TypeIt('#kenja', {
-  speed: 25
-})
-.type('Eps <b>11</b>');
-
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>12</b>');
+.type('Eps <b>13</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
 })
-.type('Eps <b>12</b>');
+.type('Eps <b>13</b>');
 
 new TypeIt('#botak', {
   speed: 25
@@ -31,11 +21,11 @@ new TypeIt('#kyojin', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kenja no Mago Eps 12 [END]')
+.type('- Kimetsu no Yaiba Eps 13')
 .break()
-.type('- Tate no Yuusha no Nariagari Eps 25 [END]')
+.type('- Fruits Basket Eps 13')
 .break()
-.type('- Dororo Eps 24 [END]');
+.type('- Bungo Stray Dogs S3 Eps 12 [END]');
 
 new TypeIt('#reso', {
   speed: 25

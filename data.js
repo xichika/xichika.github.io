@@ -8,24 +8,14 @@ new TypeIt('#yaiba', {
 })
 .type('Eps <b>13</b>');
 
-new TypeIt('#botak', {
-  speed: 25
-})
-.type('Eps <b>10</b>');
-
-new TypeIt('#kyojin', {
-  speed: 25
-})
-.type('Eps <b>09</b>');
-
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 13')
+.type('- One Punch Man S2 Eps 12 [END]')
 .break()
-.type('- Fruits Basket Eps 13')
+.type('- Shingeki no Kyojin S3 Part 2 Eps 10 [END]')
 .break()
-.type('- Bungo Stray Dogs S3 Eps 12 [END]');
+.type('- Kimetsu no Yaiba Eps 13');
 
 new TypeIt('#reso', {
   speed: 25

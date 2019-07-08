@@ -11,16 +11,21 @@ new TypeIt('#yaiba', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- One Punch Man S2 Eps 12 [END]')
+.type('- Arifureta Shokugyou de Sekai Saikyou Eps 01')
 .break()
-.type('- Shingeki no Kyojin S3 Part 2 Eps 10 [END]')
+.type('- Vinland Saga Eps 03');
+
+new TypeIt('#oldupdate', {
+  speed: 45
+})
+.type('- Kimetsu no Yaiba Eps 13')
 .break()
-.type('- Kimetsu no Yaiba Eps 13');
+.type('- Fruits Basket Eps 13');
 
 new TypeIt('#reso', {
   speed: 25
 })
-.type('- <b>[HADE 10bit]</b> adalah resolusi 720p')
+.type('- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]')
 .break()
 .type('- <b>[S-HADE]</b> adalah resolusi 1080p');
 
@@ -37,7 +42,7 @@ new TypeIt('#info', {
 .type('Untuk file list episodenya akan otomatis update sendiri jika videonya diupload.')
 .break()
 .break()
-.type('Jika ente bingung dengan episode yang baru rilis itu episode berapa, silahkan masuk ke situs dibawah ini untuk melihat info episode terbarunya:')
+.type('Jika bingung dengan episode yang baru rilis itu episode berapa, silahkan masuk ke situs dibawah ini untuk melihat info episode terbarunya:')
 .break()
 .type('- https://horriblesubs.info')
 .break()

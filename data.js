@@ -1,13 +1,55 @@
+// ANIME EPISODE UPDATE
+new TypeIt('#arifureta', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
+new TypeIt('#drstone', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
+new TypeIt('#enenshou', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#fruits', {
   speed: 25
 })
 .type('Eps <b>13</b>');
+
+new TypeIt('#kemono', {
+  speed: 25
+})
+.type('Eps <b>02</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
 })
 .type('Eps <b>13</b>');
 
+new TypeIt('#maou', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
+new TypeIt('#nakanohito', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
+new TypeIt('#sounan', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
+new TypeIt('#vinland', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
+// UPDATE INFO
 new TypeIt('#update', {
   speed: 45
 })
@@ -15,6 +57,7 @@ new TypeIt('#update', {
 .break()
 .type('- Vinland Saga Eps 03');
 
+// OLD UPDATE
 new TypeIt('#oldupdate', {
   speed: 45
 })
@@ -22,6 +65,7 @@ new TypeIt('#oldupdate', {
 .break()
 .type('- Fruits Basket Eps 13');
 
+// RESOLUTION INFO
 new TypeIt('#reso', {
   speed: 25
 })
@@ -29,6 +73,7 @@ new TypeIt('#reso', {
 .break()
 .type('- <b>[S-HADE]</b> adalah resolusi 1080p');
 
+// INFORMASI BETELGEUSE
 new TypeIt('#info', {
   speed: 45
 })

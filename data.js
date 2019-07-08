@@ -47,7 +47,7 @@ new TypeIt('#sounan', {
 new TypeIt('#vinland', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>03</b>');
 
 // UPDATE INFO
 new TypeIt('#update', {

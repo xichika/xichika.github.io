@@ -19,6 +19,11 @@ new TypeIt('#fruits', {
 })
 .type('Eps <b>13</b>');
 
+new TypeIt('#hensuki', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#kemono', {
   speed: 25
 })

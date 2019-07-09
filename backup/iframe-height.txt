@@ -1,3 +1,8 @@
 Eps 12 : 1100px
 Eps 24 : 2245px
 Eps 25 : 2250px
+
+Encoder: http://hivelogic.com/enkoder/
+
+Iframe:
+<iframe src="https://drive.google.com/embeddedfolderview?id=IDGDRIVE#list" style="width:100%; height:1100px; border:0;"></iframe>

@@ -42,12 +42,17 @@ new TypeIt('#nakanohito', {
 new TypeIt('#sounan', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#vinland', {
   speed: 25
 })
 .type('Eps <b>03</b>');
+
+new TypeIt('#yuno', {
+  speed: 25
+})
+.type('Eps <b>15</b>');
 
 // UPDATE INFO
 new TypeIt('#update', {
@@ -63,7 +68,9 @@ new TypeIt('#oldupdate', {
 })
 .type('- Kimetsu no Yaiba Eps 13')
 .break()
-.type('- Fruits Basket Eps 13');
+.type('- Fruits Basket Eps 13')
+.break()
+.type('- YU-NO Eps 15');
 
 // RESOLUTION INFO
 new TypeIt('#reso', {

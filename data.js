@@ -24,6 +24,11 @@ new TypeIt('#hensuki', {
 })
 .type('Eps <b>01</b>');
 
+new TypeIt('#cheat', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#kemono', {
   speed: 25
 })
@@ -37,7 +42,7 @@ new TypeIt('#yaiba', {
 new TypeIt('#maou', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#nakanohito', {
   speed: 25

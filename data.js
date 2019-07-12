@@ -68,9 +68,7 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Arifureta Shokugyou de Sekai Saikyou Eps 01')
-.break()
-.type('- Vinland Saga Eps 03');
+.type('- Dr Stone Eps 02');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

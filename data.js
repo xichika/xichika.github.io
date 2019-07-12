@@ -4,6 +4,11 @@ new TypeIt('#arifureta', {
 })
 .type('Eps <b>01</b>');
 
+new TypeIt('#danmachi', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#drstone', {
   speed: 25
 })
@@ -12,12 +17,12 @@ new TypeIt('#drstone', {
 new TypeIt('#enenshou', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>13</b>');
+.type('Eps <b>15</b>');
 
 new TypeIt('#hensuki', {
   speed: 25
@@ -68,6 +73,12 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- DanMachi S2 Eps 01')
+.break()
+.type('- Enen no Shouboutai Eps 02')
+.break()
+.type('- Fruits Basket Eps 15')
+.break()
 .type('- Dr Stone Eps 02');
 
 // OLD UPDATE
@@ -76,7 +87,7 @@ new TypeIt('#oldupdate', {
 })
 .type('- Kimetsu no Yaiba Eps 13')
 .break()
-.type('- Fruits Basket Eps 13')
+.type('- Fruits Basket Eps 15')
 .break()
 .type('- YU-NO Eps 15');
 

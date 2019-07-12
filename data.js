@@ -7,7 +7,7 @@ new TypeIt('#arifureta', {
 new TypeIt('#drstone', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#enenshou', {
   speed: 25

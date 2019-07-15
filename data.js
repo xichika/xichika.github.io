@@ -2,7 +2,7 @@
 new TypeIt('#arifureta', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#danmachi', {
   speed: 25
@@ -27,7 +27,7 @@ new TypeIt('#fruits', {
 new TypeIt('#hensuki', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#cheat', {
   speed: 25

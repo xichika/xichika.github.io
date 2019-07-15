@@ -52,7 +52,7 @@ new TypeIt('#maou', {
 new TypeIt('#nakanohito', {
   speed: 25
 })
-.type('Eps <b>01</b>');
+.type('Eps <b>02</b>');
 
 new TypeIt('#sounan', {
   speed: 25

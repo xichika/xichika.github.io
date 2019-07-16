@@ -104,9 +104,9 @@ new TypeIt('#reso', {
 new TypeIt('#info', {
   speed: 45
 })
-.type('Situs koleksi ini cuma upload video anime beresolusi 720p dan 1080p saja.')
+.type('Nidai.Me adalah situs koleksi anime dengan update video beresolusi 720p dan 1080p saja.')
 .break()
-.type('Jika ente bahlul dan suka download resolusi burem seperti 360p/480p maka bukan disini tempatnya gaes dan disini tidak update anime episode banyak seperti One Piece, Boruto, Black Clover atau Fairy Tail karena udah ketinggalan jauh hhhh')
+.type('Jika elu bahlul dan suka download resolusi burem seperti 360p/480p maka bukan disini tempatnya, dan disini tidak update anime episode banyak seperti One Piece, Boruto, Black Clover atau Fairy Tail karena udah ketinggalan jauh hhhh')
 .break()
 .break()
 .type('Semua link download di situs ini memakai google drive biar lebih joss.')
@@ -118,4 +118,4 @@ new TypeIt('#info', {
 .break()
 .type('- https://horriblesubs.info')
 .break()
-.type('- https://torrents.ohys.net/t/or');
+.type('- https://torrents.ohys.net/t/v/');

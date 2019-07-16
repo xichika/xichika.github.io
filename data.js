@@ -4,6 +4,11 @@ new TypeIt('#arifureta', {
 })
 .type('Eps <b>02</b>');
 
+new TypeIt('#bem', {
+  speed: 25
+})
+.type('Eps <b>01</b>');
+
 new TypeIt('#danmachi', {
   speed: 25
 })

@@ -62,7 +62,7 @@ new TypeIt('#nakanohito', {
 new TypeIt('#sounan', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>03</b>');
 
 new TypeIt('#vinland', {
   speed: 25
@@ -72,7 +72,7 @@ new TypeIt('#vinland', {
 new TypeIt('#yuno', {
   speed: 25
 })
-.type('Eps <b>15</b>');
+.type('Eps <b>16</b>');
 
 // UPDATE INFO
 new TypeIt('#update', {
@@ -90,7 +90,7 @@ new TypeIt('#oldupdate', {
 .break()
 .type('- Fruits Basket Eps 15')
 .break()
-.type('- YU-NO Eps 15');
+.type('- YU-NO Eps 16');
 
 // RESOLUTION INFO
 new TypeIt('#reso', {

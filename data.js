@@ -17,7 +17,7 @@ new TypeIt('#danmachi', {
 new TypeIt('#drstone', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>03</b>');
 
 new TypeIt('#enenshou', {
   speed: 25
@@ -78,9 +78,7 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Isekai Cheat Magician Eps 02')
-.break()
-.type('- Maou-sama Retry! Eps 03');
+.type('- Dr. Stone Eps 03');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

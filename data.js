@@ -47,7 +47,7 @@ new TypeIt('#kemono', {
 new TypeIt('#yaiba', {
   speed: 25
 })
-.type('Eps <b>15</b>');
+.type('Eps <b>16</b>');
 
 new TypeIt('#maou', {
   speed: 25
@@ -78,6 +78,8 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
+.type('- Kimetsu no Yaiba Eps 16')
+.break()
 .type('- DanMachi S2 Eps 02')
 .break()
 .type('- Fruits Basket Eps 16')
@@ -88,7 +90,7 @@ new TypeIt('#update', {
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 15')
+.type('- Kimetsu no Yaiba Eps 16')
 .break()
 .type('- Fruits Basket Eps 16')
 .break()

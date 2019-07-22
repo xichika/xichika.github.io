@@ -57,7 +57,7 @@ new TypeIt('#maou', {
 new TypeIt('#nakanohito', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>03</b>');
 
 new TypeIt('#sounan', {
   speed: 25
@@ -78,13 +78,9 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 16')
+.type('- Nakanohito Genome [Jikkyouchuu] Eps 03')
 .break()
-.type('- DanMachi S2 Eps 02')
-.break()
-.type('- Fruits Basket Eps 16')
-.break()
-.type('- Dr. Stone Eps 03');
+.type('- Kimetsu no Yaiba Eps 16');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

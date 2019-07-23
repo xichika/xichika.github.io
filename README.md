@@ -1,5 +1,5 @@
 # Nidai.Me Anime Collection
-
+Nidai.Me adalah situs koleksi anime dengan update video beresolusi 720p dan 1080p saja.
 
 # Choose Iframe Height
 ```
@@ -10,13 +10,13 @@ Eps 18 : 1700px
 Eps 24 : 2245px
 Eps 25 : 2250px
 ```
-# Iframe Gdrive Code
+# Iframe GDrive Code
 ```
-<iframe src="https://drive.google.com/embeddedfolderview?id=IDGDRIVE#list" style="width:100%; height:1100px; border:0;"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=IDGDRIVE#list" style="width:100%; height:1120px; border:0;"></iframe>
 ```
 
 # Encode Script Site
-http://hivelogic.com/enkoder/
+[http://hivelogic.com/enkoder/](http://hivelogic.com/enkoder/)
 
 # Color Seasons
 ```

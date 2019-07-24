@@ -62,7 +62,7 @@ new TypeIt('#nakanohito', {
 new TypeIt('#sounan', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#vinland', {
   speed: 25
@@ -72,19 +72,15 @@ new TypeIt('#vinland', {
 new TypeIt('#yuno', {
   speed: 25
 })
-.type('Eps <b>16</b>');
+.type('Eps <b>17</b>');
 
 // UPDATE INFO
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Arifureta Shokugyou de Sekai Saikyou Eps 03')
+.type('- Sounan Desu ka? Eps 04')
 .break()
-.type('- Katsute Kami Datta Kemono-tachi e Eps 04')
-.break()
-.type('- HenSuki Eps 03')
-.break()
-.type('- Bem Eps 02');
+.type('- YU-NO Eps 17');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {
@@ -94,7 +90,7 @@ new TypeIt('#oldupdate', {
 .break()
 .type('- Fruits Basket Eps 16')
 .break()
-.type('- YU-NO Eps 16');
+.type('- YU-NO Eps 17');
 
 // RESOLUTION INFO
 new TypeIt('#reso', {

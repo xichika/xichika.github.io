@@ -2,95 +2,95 @@
 new TypeIt('#arifureta', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#bem', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>03</b>');
 
 new TypeIt('#danmachi', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#drstone', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#enenshou', {
   speed: 25
 })
-.type('Eps <b>02</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>16</b>');
+.type('Eps <b>18</b>');
 
 new TypeIt('#hensuki', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#cheat', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>04</b>');
 
 new TypeIt('#kemono', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
 })
-.type('Eps <b>16</b>');
+.type('Eps <b>18</b>');
 
 new TypeIt('#maou', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#nakanohito', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#sounan', {
   speed: 25
 })
-.type('Eps <b>04</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#vinland', {
   speed: 25
 })
-.type('Eps <b>03</b>');
+.type('Eps <b>05</b>');
 
 new TypeIt('#yuno', {
   speed: 25
 })
-.type('Eps <b>17</b>');
+.type('Eps <b>18</b>');
 
 // UPDATE INFO
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Isekai Cheat Magician Eps 03')
+.type('- Sounan Desu ka Eps 06')
 .break()
-.type('- Maou-sama Retry! Eps 04');
+.type('- YU-NO Eps 18');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 16')
+.type('- Kimetsu no Yaiba Eps 18')
 .break()
-.type('- Fruits Basket Eps 16')
+.type('- Fruits Basket Eps 18')
 .break()
-.type('- YU-NO Eps 17');
+.type('- YU-NO Eps 18');
 
 // RESOLUTION INFO
 new TypeIt('#reso', {
@@ -118,4 +118,4 @@ new TypeIt('#info', {
 .break()
 .type('- https://horriblesubs.info')
 .break()
-.type('- https://torrents.ohys.net/t/v/');
+.type('- https://torrents.ohys.net/t/or/');

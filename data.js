@@ -119,3 +119,10 @@ new TypeIt('#info', {
 .type('- https://horriblesubs.info')
 .break()
 .type('- https://torrents.ohys.net/t/or/');
+
+// Information
+var rls = "- Maou Eps 03<br>Vinland Saga Eps 05";
+document.getElementById("rilis").innerHTML = rls;
+
+var ho = "- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]<br><b>[S-HADE]</b> adalah resolusi 1080p";
+document.getElementById("hoho").innerHTML = ho;

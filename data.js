@@ -113,5 +113,5 @@ new TypeIt('#info', {
 .type('- https://torrents.ohys.net/t/or/');
 
 // INFO RESOLUSI
-var pixel = "- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]<br><b>[S-HADE]</b> adalah resolusi 1080p";
+var pixel = "- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]<br>- <b>[S-HADE]</b> adalah resolusi 1080p";
 document.getElementById("reso").innerHTML = pixel;

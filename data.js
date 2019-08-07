@@ -115,10 +115,7 @@ new TypeIt('#info', {
 // INFO UPDATE
 var rls = "- Isekai Cheat Magician Eps 05<br>- Maou-sama Retry! Eps 06";
 document.getElementById("update").innerHTML = rls;
-
 var unrls = "- Kimetsu no Yaiba Eps 18<br>- Fruits Basket Eps 18<br>- YU-NO Eps 18";
 document.getElementById("oldupdate").innerHTML = unrls;
-
-// RESOLUTION INFO
 var pixel = "- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]<br><b>[S-HADE]</b> adalah resolusi 1080p";
 document.getElementById("reso").innerHTML = pixel;

@@ -75,7 +75,7 @@ new TypeIt('#yuno', {
 .type('Eps <b>18</b>');
 
 // UPDATE INFO
-new TypeIt('#update', {
+new TypeIt('#updatex', {
   speed: 45
 })
 .type('- Sounan Desu ka Eps 06')
@@ -83,7 +83,7 @@ new TypeIt('#update', {
 .type('- YU-NO Eps 18');
 
 // OLD UPDATE
-new TypeIt('#oldupdate', {
+new TypeIt('#oldupdatex', {
   speed: 45
 })
 .type('- Kimetsu no Yaiba Eps 18')
@@ -91,14 +91,6 @@ new TypeIt('#oldupdate', {
 .type('- Fruits Basket Eps 18')
 .break()
 .type('- YU-NO Eps 18');
-
-// RESOLUTION INFO
-new TypeIt('#reso', {
-  speed: 25
-})
-.type('- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]')
-.break()
-.type('- <b>[S-HADE]</b> adalah resolusi 1080p');
 
 // INFORMASI BETELGEUSE
 new TypeIt('#info', {
@@ -120,9 +112,13 @@ new TypeIt('#info', {
 .break()
 .type('- https://torrents.ohys.net/t/or/');
 
-// Information
-var rls = "- Maou Eps 03<br>Vinland Saga Eps 05";
-document.getElementById("rilis").innerHTML = rls;
+// INFO UPDATE
+var rls = "- Isekai Cheat Magician Eps 05<br>- Maou-sama Retry! Eps 06";
+document.getElementById("update").innerHTML = rls;
 
-var ho = "- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]<br><b>[S-HADE]</b> adalah resolusi 1080p";
-document.getElementById("hoho").innerHTML = ho;
+var unrls = "- Kimetsu no Yaiba Eps 18<br>- Fruits Basket Eps 18<br>- YU-NO Eps 18";
+document.getElementById("oldupdate").innerHTML = unrls;
+
+// RESOLUTION INFO
+var pixel = "- <b>[HADE 10bit]</b> adalah resolusi 720p [10bit]<br><b>[S-HADE]</b> adalah resolusi 1080p";
+document.getElementById("reso").innerHTML = pixel;

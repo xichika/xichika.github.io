@@ -55,6 +55,44 @@
     padding: 2px 3px;
     font-size: 26px;
 }
+
+@-webkit-keyframes spin {
+  from {
+        -webkit-transform: rotate(0deg);
+  }
+  to {
+        -webkit-transform: rotate(360deg);
+  }
+}
+
+@-moz-keyframes spin {
+  from {
+        -moz-transform: rotate(0deg);
+  }
+  to {
+        -moz-transform: rotate(360deg);
+  }
+}
+
+#spin {
+  animation-name: spin;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-duration: 25s;
+  animation-play-state: running;
+
+  -webkit-animation-name: spin;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-duration: 25s;
+  -webkit-animation-play-state: running;
+
+  -moz-animation-name: spin;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  -moz-animation-duration: 25s;
+  -moz-animation-play-state: running;
+}
 </style>
 </head>
 <body data-rsssl=1 class="page-template page-template-page-fullwidth page-template-page-fullwidth-php page page-id-63">
@@ -103,7 +141,7 @@
     <div class="post-inner-content">
 <article id="post-63" class="post-63 page type-page status-publish hentry">
 <div class="entry-content">
-   <p align="center"><img src="./cover.jpg" title="Cover" alt="Cover" style="border-radius: 50%; width: 250px; height: 250px; border: 2px solid #FF00000;"/></p>
+   <p align="center"><img id="spin" src="./cover.jpg" title="Cover" alt="Cover" style="border-radius: 50%; width: 250px; height: 250px; border: 2px solid #FF00000;"/></p>
 <br/>
 <table>
 <tbody>

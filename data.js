@@ -84,7 +84,7 @@ new TypeIt('#update', {
 .break()
 .type('- DanMachi S2 Eps 05')
 .break()
-.type('- Enen no Shouboutai Eps 06');
+.type('- Enen no Shouboutai Eps 05');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

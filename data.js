@@ -47,7 +47,7 @@ new TypeIt('#kemono', {
 new TypeIt('#yaiba', {
   speed: 25
 })
-.type('Eps <b>18</b>');
+.type('Eps <b>19</b>');
 
 new TypeIt('#maou', {
   speed: 25

@@ -78,19 +78,15 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Fruits Basket Eps 19')
+.type('- Kimetsu no Yaiba Eps 19')
 .break()
-.type('- Dr. Stone Eps 06')
-.break()
-.type('- DanMachi S2 Eps 05')
-.break()
-.type('- Enen no Shouboutai Eps 05');
+.type('- Fruits Basket Eps 19');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 18')
+.type('- Kimetsu no Yaiba Eps 19')
 .break()
 .type('- Fruits Basket Eps 19')
 .break()

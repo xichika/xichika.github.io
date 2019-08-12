@@ -32,7 +32,7 @@ new TypeIt('#fruits', {
 new TypeIt('#hensuki', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#cheat', {
   speed: 25
@@ -42,7 +42,7 @@ new TypeIt('#cheat', {
 new TypeIt('#kemono', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
@@ -78,9 +78,9 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Nakanohito Genome [Jikkyouchuu] Eps 06')
+.type('- Katsute Kami Datta Kemono-tachi e Eps 07')
 .break()
-.type('- Vinland Saga Eps 06');
+.type('- HenSuki Eps 06');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

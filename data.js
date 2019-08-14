@@ -62,7 +62,7 @@ new TypeIt('#nakanohito', {
 new TypeIt('#sounan', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#vinland', {
   speed: 25
@@ -72,15 +72,15 @@ new TypeIt('#vinland', {
 new TypeIt('#yuno', {
   speed: 25
 })
-.type('Eps <b>18</b>');
+.type('Eps <b>19</b>');
 
 // UPDATE INFO
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Katsute Kami Datta Kemono-tachi e Eps 07')
+.type('- YU-NO Eps 19')
 .break()
-.type('- HenSuki Eps 06');
+.type('- Sounan Desu ka? Eps 07');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {
@@ -90,7 +90,7 @@ new TypeIt('#oldupdate', {
 .break()
 .type('- Fruits Basket Eps 19')
 .break()
-.type('- YU-NO Eps 18');
+.type('- YU-NO Eps 19');
 
 // INFORMASI BETELGEUSE
 new TypeIt('#info', {

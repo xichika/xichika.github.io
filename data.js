@@ -12,22 +12,22 @@ new TypeIt('#bem', {
 new TypeIt('#danmachi', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#drstone', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#enenshou', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#fruits', {
   speed: 25
 })
-.type('Eps <b>19</b>');
+.type('Eps <b>20</b>');
 
 new TypeIt('#hensuki', {
   speed: 25
@@ -78,9 +78,13 @@ new TypeIt('#yuno', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Maou-sama Retry! Eps 07')
+.type('- Fruits Basket Eps 20')
 .break()
-.type('- Isekai Cheat Magician Eps 06');
+.type('- Enen no Shouboutai Eps 06')
+.break()
+.type('- DanMachi S2 Eps 06')
+.break()
+.type('- Dr. Stone Eps 07');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {
@@ -88,7 +92,7 @@ new TypeIt('#oldupdate', {
 })
 .type('- Kimetsu no Yaiba Eps 19')
 .break()
-.type('- Fruits Basket Eps 19')
+.type('- Fruits Basket Eps 20')
 .break()
 .type('- YU-NO Eps 19');
 

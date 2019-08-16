@@ -74,6 +74,11 @@ new TypeIt('#yuno', {
 })
 .type('Eps <b>19</b>');
 
+new TypeIt('#upcom', {
+  speed: 25
+})
+.type('<b>Upcoming</b>');
+
 // UPDATE INFO
 new TypeIt('#update', {
   speed: 45

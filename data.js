@@ -2,7 +2,7 @@
 new TypeIt('#arifureta', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#bem', {
   speed: 25
@@ -32,7 +32,7 @@ new TypeIt('#fruits', {
 new TypeIt('#hensuki', {
   speed: 25
 })
-.type('Eps <b>06</b>');
+.type('Eps <b>07</b>');
 
 new TypeIt('#cheat', {
   speed: 25
@@ -42,7 +42,7 @@ new TypeIt('#cheat', {
 new TypeIt('#kemono', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#yaiba', {
   speed: 25
@@ -83,11 +83,11 @@ new TypeIt('#upcom', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Bem Eps 04')
+.type('- Katsute Kami Datta Kemono-tachi e Eps 08')
 .break()
-.type('- Vinland Saga Eps 07')
+.type('- Arifureta Shokugyou de Sekai Saikyou Eps 06')
 .break()
-.type('- Nakanohito Genome [Jikkyouchuu] Eps 07');
+.type('- HenSuki Eps 07');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

@@ -37,7 +37,7 @@ new TypeIt('#hensuki', {
 new TypeIt('#cheat', {
   speed: 25
 })
-.type('Eps <b>07</b>');
+.type('Eps <b>08</b>');
 
 new TypeIt('#kemono', {
   speed: 25
@@ -52,7 +52,7 @@ new TypeIt('#yaiba', {
 new TypeIt('#maou', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#nakanohito', {
   speed: 25
@@ -83,9 +83,9 @@ new TypeIt('#upcom', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Sounan desu ka? Eps 09')
+.type('- Maou-sama Retry! Eps 09')
 .break()
-.type('- YU-NO Eps 21');
+.type('- Isekai Cheat Magician Eps 08');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

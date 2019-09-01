@@ -7,7 +7,7 @@ new TypeIt('#arifureta', {
 new TypeIt('#bem', {
   speed: 25
 })
-.type('Eps <b>05</b>');
+.type('Eps <b>06</b>');
 
 new TypeIt('#danmachi', {
   speed: 25
@@ -57,7 +57,7 @@ new TypeIt('#maou', {
 new TypeIt('#nakanohito', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#sounan', {
   speed: 25
@@ -67,7 +67,7 @@ new TypeIt('#sounan', {
 new TypeIt('#vinland', {
   speed: 25
 })
-.type('Eps <b>08</b>');
+.type('Eps <b>09</b>');
 
 new TypeIt('#yuno', {
   speed: 25
@@ -83,7 +83,11 @@ new TypeIt('#upcom', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Kimetsu no Yaiba Eps 22');
+.type('- Bem Eps 06')
+.break()
+.type('- Nakanohito Genome [Jikkyouchuu] Eps 09')
+.break()
+.type('- Vinland Saga Eps 09');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {

@@ -62,7 +62,7 @@ new TypeIt('#nakanohito', {
 new TypeIt('#sounan', {
   speed: 25
 })
-.type('Eps <b>09</b>');
+.type('Eps <b>10</b>');
 
 new TypeIt('#vinland', {
   speed: 25
@@ -72,7 +72,7 @@ new TypeIt('#vinland', {
 new TypeIt('#yuno', {
   speed: 25
 })
-.type('Eps <b>21</b>');
+.type('Eps <b>22</b>');
 
 new TypeIt('#upcom', {
   speed: 25
@@ -83,13 +83,9 @@ new TypeIt('#upcom', {
 new TypeIt('#update', {
   speed: 45
 })
-.type('- Katsute Kami Datta Kemono-tachi e Eps 10')
+.type('- YU-NO Eps 22')
 .break()
-.type('- Arifureta Shokugyou de Sekai Saikyou Eps 08')
-.break()
-.type('- HenSuki Eps 09')
-.break()
-.type('- Nakanohito Genome [Jikkyouchuu] Eps 09');
+.type('- Sounan Desu ka? Eps 10');
 
 // OLD UPDATE
 new TypeIt('#oldupdate', {
@@ -99,7 +95,7 @@ new TypeIt('#oldupdate', {
 .break()
 .type('- Fruits Basket Eps 22')
 .break()
-.type('- YU-NO Eps 21');
+.type('- YU-NO Eps 22');
 
 // INFORMASI BETELGEUSE
 new TypeIt('#info', {
